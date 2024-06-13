@@ -1,6 +1,6 @@
 # GMS - File Tracking System
 
-![Logo](https://github.com/algobasket/File-Tracking-System/blob/main/staticfiles/images/logo.png)
+
 
 ## Description
 **GMS - File Tracking System** is a system where various users with different roles can share, forward, approve, and access files. The roles include Admin, Dakghar (file uploader), GMS, GM (General Manager), CO, DO, HOS, etc. Files are forwarded in a hierarchical manner among these roles. This system is built using Django, a Python framework.
